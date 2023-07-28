@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: beige;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    font-size :30px;
+}
+h1{ 
+    font-family: 'Merriweather', serif,'Yellowtail', cursive;
+    text-align: center;
+}
+h2{
+text-align: center;
+}
+.s-icon {
+    display: flex;
+    margin-top: 2rem;
+    justify-content: space-around;
+    align-items: center;
+}
+.option ul{
+    display:flex;
+    flex-flow: row nowrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 70%;
+    margin:auto
+}
+a{
+    text-decoration: none;
+}
+ul{ 
+    list-style: none;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    padding: 1rem;
+}
+/* .container{
+    width: 200px;
+    height: 200px;
+} */
+
+/* .shop-section{
+display: flex;
+} */
+
+/* .box{
+   border: 8px solid rgba(180, 235, 13, 0.272); 
+   height: 80px;
+   width: 50%;
+   color: rgb(255, 68, 0);
+   justify-content: space-evenly;
+} */
